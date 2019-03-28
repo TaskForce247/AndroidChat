@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490628536738",
+    "firebase_url": "https://fir-room-chat-master-cf084.firebaseio.com",
+    "project_id": "fir-room-chat-master-cf084",
+    "storage_bucket": "fir-room-chat-master-cf084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490628536738:android:e32e36bf39f5d199",
+        "android_client_info": {
+          "package_name": "com.nrohmen.roomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490628536738-sijpu0in2g9mthr5nfghe3b4rvtvr7ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nrohmen.roomchat",
+            "certificate_hash": "ecb81d4d5dd1b111b947e3ff486fc3942e2d338f"
+          }
+        },
+        {
+          "client_id": "490628536738-pafse0md1b3sneps5f16j2b91kgsaqib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy5pDsBlV-3qR6A-RIzYGQN5LH17RV6bU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490628536738-pafse0md1b3sneps5f16j2b91kgsaqib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

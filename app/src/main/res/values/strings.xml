@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Room Chat</string>
+    <string name="profile">Profile</string>
+    <string name="home">Contact</string>
+    <string name="chat">Chat</string>
+    <string name="contact">Contact</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone</string>
+    <string name="save">Save</string>
+    <string name="no_contact">No contact</string>
+    <string name="no_room">No room</string>
+    <string name="hint_enter_a_message">Type a message…</string>
+    <string name="start_typing_status">start typing</string>
+    <string name="stop_typing_status">stop typing</string>
+    <string name="member">member</string>
+    <string name="no_member">No member</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+</resources>
